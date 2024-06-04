@@ -1,3 +1,11 @@
-# GYM_MANAGEMENT_SYSTEM
-This is a repository with my ALX project portfolio.
-i have in here, explained concept on how the gym management system works, from the coding to the final working of the system.
+#gym System
+
+How To Install -
+Create Database gym.
+Run gym.sql script provided.
+Go to gym/login.php and try out our application.
+users logins
+Go to gym/login.php email: user@gmail.com password: @User01
+
+Admin logins
+Go to gym/admin/login.php email: peter@gmail.com password: peter1234
